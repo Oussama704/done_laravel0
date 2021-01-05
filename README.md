@@ -9,6 +9,7 @@
 <h1>Welcome to the done_laravel0 wiki!
 </h1>
 <h2>Page d'acceuil.</h2>
+<img src="https://github.com/Oussama704/images/blob/main/01.PNG" alt="Girl in a jacket" width="500" height="600"/>
 <h2>On a mis une zone pour communiquer avec les utilisateurs de notre plateforme.
 </h2>
 <h2>La page d'inscription.</h2>
