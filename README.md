@@ -32,13 +32,15 @@ En mettant la date de la publication de l'offre.</h2>
 <img src="https://github.com/Oussama704/images/blob/main/06.PNG"/>
 
 <h2>Et voila notre poste s'affiche dans l'acceuil.</h2>
-<img src="https://github.com/Oussama704/images/blob/main/07.PNG"/>
+<img src="https://github.com/Oussama704/images/blob/main/08.PNG"/>
 
 <h2>Passant maintenant au filtrage des données si on veut des produits spécifiques.
 </h2>
-<img src="https://github.com/Oussama704/images/blob/main/08.PNG"/>
+<img src="https://github.com/Oussama704/images/blob/main/09.PNG"/>
 
 <h2>Notre profile affiche nos postes
 .</h2>
-<img src="https://github.com/Oussama704/images/blob/main/09.PNG"/>
+<img src="https://github.com/Oussama704/images/blob/main/010.PNG"/>
+<img src="https://github.com/Oussama704/images/blob/main/011.PNG"/>
+
 
